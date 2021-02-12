@@ -1,31 +1,3 @@
-<!--- 
-Changes in this edit: 
-
- - Rearranged some content for narrative flow.
- - Changed phrase to reflect that most users confuse git fetch and git pull 
-   (not git pull and git push). 
- - Changed narrative to active voice, second person, present tense.
- - Changed "master" to "main" because that's what I see in the homework 
-   given to me. If "master" is still is used, I'd propose an inclusive language
-   section in the style guide. 
- - Replaced hyphens with en dashes in list items.
- - Replaced colons with different phrasing and/or split into separate sentences. 
- - Standardized content to plain English
- - Lowered reading level from 9th grade to 6th grade.
-
-Suggestions:
-
- - The "Think of it as" sentence in the Push section makes the concept 
-   clear. I love it. What do you think about adding a similar sentence in the
-   Fetch and Pull sections?
- - We have some concepts, like tracking branch, that aren't used in a lot 
-   of Git shops. Should we add a link for more information? Or do you 
-   think our audience will understand?   
-
-Note that nothing is written in stone. Feel free to call me for clarification. If any of my proposed edits changed your intended meaning, disregard my suggestion, accept my apologies, and claim a "get out of jail free" card to sucker-punch me after the pandemic.
-
---->
-
 # What is the difference between push, fetch, and pull?
 
 This topic defines some common Git commands used to work with remote repositories.  
